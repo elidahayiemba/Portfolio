@@ -17,7 +17,7 @@ body{
 
 .introduction h2{
     margin-top: -20px;
-    color: rgb(112, 109, 109);
+    color: #4C4C4C;
     font-size: 20px;
     margin-bottom: 80px;
 }
@@ -48,6 +48,42 @@ body{
 
 }
 
+.description-section{
+    text-align: center;
+    margin-top: 100px;
+}
+.homepage{
+    color: #6C63FF;
+}
+.description-section h1{
+    font-size: 80px;
+    margin-top: 10px;
+}
+.description-section h3{
+    font-size: 24px;
+    color: #4C4C4C;
+    margin-top: -50px;
+}
 
+.description .first-one{
+    background-color: #F5F2FE;
+    width: fit-content;
+    padding: 10px 20px;
+    
+}
+.description .second-one{
+    background-color: #F5F2FE;
+    width: fit-content;
+    padding: 10px 20px;
+    margin-left: -200px;
+    
+    
+}
+
+.description{
+    display: flex;
+    margin-left: 250px;
+    justify-content: space-evenly;
+}
 
 
